@@ -6,17 +6,17 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital de Santa Catarina?',
-    'A capital de Santa Catarina é Florianópolis'
+    'Qual a capital do Mato Grosso?',
+    'A capital do Mato Grosso é Cuiabá'
 )
 
 criaCartao(
     'Programação',
-    'Qual é o nome do rio que faz fronteira com a argentina?',
-    ' Rio da Prata'
+    'Qual é o nome do rio que faz fronteira com Mato Grosso?',
+    'Rio Araguaia'
 )
     criaCartao(
     'Lingua inglesa',
-    'Como se diz boa noite em ingles?',
-    'Boa Noite em ingles é goodnight'
+    'Como se diz boa noite em inglês?',
+    'Boa noite em ingles é goodnight'
 )

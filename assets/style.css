@@ -1,13 +1,14 @@
 :root {
---text-color: #ffffff;
---card-front-color: #0b7280;
---card-back-color: #36b7dfc7;
+--text-color: #DBE4EF;
+--card-front-color: #144480;
+--card-back-color: #00F4BF;
 }
+
 
 body {
 background: url('bg-desktop.webp');
 font-family: Bai Jamjuree;
-} 
+}
 
 #container {
 display:flex ;
@@ -15,15 +16,16 @@ flex-wrap: wrap;
 justify-content: space-between;
 padding: 4rem;
 gap: 3rem;
+}
 
 .cartao {
 margin: 1rem 1rem;
-background-color: rgb(110, 181, 215);
+background-color: rgb(12, 152, 152);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
-
 }
+
 .cartao__conteudo h3 {
 color: var(--text-color);
 border: 1px solid var(--text-color);
@@ -60,7 +62,7 @@ font-weight: 500;
 color: var(--card-back-color);
 font-weight: 700;
 }
-
+ 
 .cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
@@ -81,7 +83,7 @@ background-color: rdba(0, 244, 191, 0.2);
 }
 
 footer {
-background-color: black;
+background-color: rgb(166, 215, 246);
 color: white;
 bottom:0;
 position:fixed;
@@ -94,6 +96,7 @@ text-align: center;
 font-size: 0.6rem;
 margin-top: 0.5rem;
 }
+
 @media (max-width: 560px) {
 
     body {
@@ -110,4 +113,5 @@ margin-top: 0.5rem;
 .cartao__conteudo p {
     font-size: 3.8vw;
 }
+
 }
