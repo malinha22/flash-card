@@ -6,17 +6,17 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital de Santa Catarina?',
+    'A capital de Santa Catarina é Florianópolis'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual é o nome do rio que faz fronteira com a argentina?',
+    ' Rio da Prata'
 )
     criaCartao(
     'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se diz boa noite em ingles?',
+    'Boa Noite em ingles é goodnight'
 )
