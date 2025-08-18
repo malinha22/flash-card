@@ -6,7 +6,7 @@
 
 
 body {
-background: url('david-booth-_G10bOt74J4-unsplash.jpg');
+background: url('caminhao-trabalhando-no-campo-durante-um-dia-ensolarado_23-2151976947.avif');
 font-family: Bai Jamjuree;
 }
 
@@ -100,7 +100,7 @@ margin-top: 0.5rem;
 @media (max-width: 560px) {
 
     body {
-        background: url('david-booth-_G10bOt74J4-unsplash.jpg');
+        background: url('caminhao-trabalhando-no-campo-durante-um-dia-ensolarado_23-2151976947.avif');
     }
     .cartao {
         flex: 1 0 calc(100% - 1rem);
